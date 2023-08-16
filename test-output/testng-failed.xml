@@ -5,9 +5,10 @@
     <classes>
       <class name="Executions.Execution">
         <methods>
-          <include name="close"/>
           <include name="Login"/>
+          <include name="close"/>
           <include name="showexecution"/>
+          <include name="Searching"/>
         </methods>
       </class> <!-- Executions.Execution -->
     </classes>
